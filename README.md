@@ -1,4 +1,5 @@
-About Me:
+Hello, I'm Pritam Horo. 👋
+About Me: 
 Role: API/Backend & UI Automation Engineer
 
 Expertise: Test Automation, Continuous Integration/Continuous Deployment (CI/CD), Software Quality Assurance
