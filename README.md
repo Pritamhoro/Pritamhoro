@@ -1,13 +1,17 @@
-# Hi, I'm Pritam Horo 👋
+About Me:
+Role: API/Backend & UI Automation Engineer
 
-## About Me
-- **Interests:** Test automation, CI/CD, software quality
-- **Currently Learning:** Advanced testing frameworks, cloud-based testing
-- **Looking for:** Open-source test automation projects to collaborate on
-- **Pronouns:** He/Him
-- **Fun Fact:** I enjoy solving testing challenges and gaming in my free time
+Expertise: Test Automation, Continuous Integration/Continuous Deployment (CI/CD), Software Quality Assurance
 
-## Contact
-- **LinkedIn:** [Pritam Horo](https://www.linkedin.com/in/pritam-h17/)
+Technologies: Java, TestNG, API Testing, UI Automation
 
+Currently Focused On: Advanced Testing Frameworks, Cloud-based Testing Solutions
 
+Looking For: Collaboration opportunities on open-source test automation projects
+
+Pronouns: He/Him
+
+Personal Interests: Problem-solving in testing, gaming, and staying current with industry trends
+
+Contact:
+LinkedIn:  [Pritam Horo](https://www.linkedin.com/in/pritam-h17/)
